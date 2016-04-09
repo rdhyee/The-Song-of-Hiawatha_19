@@ -1,0 +1,35 @@
+_repo: The-Song-of-Hiawatha_19
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Longfellow, Henry Wadsworth
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+  editor:
+    agent_name: Morris, Woodrow W.
+    gutenberg_agent_id: '26859'
+    url: http://www.gutenberg.org/2009/agents/26859
+description: ''
+gutenberg_bookshelf:
+- Poetry
+- Native America
+- Children's Literature
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iroquois Indians -- Kings and rulers -- Poetry'
+- !lcsh 'Indians of North America -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Hiawatha, active 15th century -- Poetry'
+- GITenberg
+title: The Song of Hiawatha
+url: http://www.gutenberg.org/ebooks/19
